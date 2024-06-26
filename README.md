@@ -1,7 +1,3 @@
-Here's an updated README for the Podkes repository, reflecting that it is a Flutter application:
-
----
-
 # Podkes
 
 Podkes is a podcast application built with Flutter, designed to provide users with an easy and convenient way to discover, listen to, and manage their favorite podcasts. This repository contains the source code for the Podkes mobile application.
