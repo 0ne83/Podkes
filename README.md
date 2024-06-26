@@ -78,5 +78,3 @@ For questions, feedback, or suggestions, please open an issue on this repository
 - **GitHub**: [0ne83](https://github.com/0ne83)
 
 ---
-
-Feel free to adjust any sections as needed!
